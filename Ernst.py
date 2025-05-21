@@ -1,3 +1,8 @@
+# © 2025 National Technology & Engineering Solutions of Sandia, LLC
+# (NTESS).  Under the terms of Contract DE-NA0003525 with NTESS, the U.S.
+# Government retains certain rights in this software.
+# SPDX-License-Identifier: MIT
+
 """
 Generates an Ernst Profile with a user-specified aspect ratio
 and number of k-terms as described in Tyler J. Mason et al., “Design and Preliminary Experimental Results on a 
